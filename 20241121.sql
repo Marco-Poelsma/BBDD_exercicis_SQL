@@ -1,0 +1,1 @@
+-- Buit. Els exercicis es troben fets a altres direccions (mirar commit posterior)
